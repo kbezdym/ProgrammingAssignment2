@@ -1,5 +1,5 @@
-## Theese functons are very similar agaist functions from example
-## Theese functions are functions for working with matrixes and for cahsing inverse matrix
+## These functions are very similar against functions from example
+## These functions are functions for working with matrixes and for cashing inverse matrix
 
 
 ## Function makeCacheMatrix create a special sort of matrix a little more strong than clear matrix
